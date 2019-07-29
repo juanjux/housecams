@@ -69,8 +69,10 @@ optional arguments:
 
 ## TODO
 
-- requirements.txt
-- Python package
+- Send the Telegram warning.
+- requirements.txt and Python package boilerplate.
 - Find and explain how to get video feedback when running in Docker mode
 - Implement the licence plate recognition.
-- Add the video storage options.
+- Implement the video storage.
+- Logging.
+

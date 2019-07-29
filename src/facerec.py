@@ -2,10 +2,8 @@
 # when an unknown face is detected, with an attached image.
 
 # TODO:
-# - Split into more functions
-# - Configurable mod to skip frames.
+# - Split main into more functions
 # - Telegram sending of warning.
-# - Configurable options (show_video, unkown_frames_to_warn, faces_dir, camera_name, etc).
 # - Complete typing.
 # - Logging
 
